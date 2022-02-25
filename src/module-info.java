@@ -1,0 +1,2 @@
+module HashCode2021 {
+}
